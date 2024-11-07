@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Peace Coin - Community for Global Harmony</title>
+    <style>
+        body { font-family: Arial, sans-serif; color: #333; margin: 0; background-color: #f9f9f9; text-align: center; }
+        .container { max-width: 800px; margin: auto; padding: 20px; }
+        header { background-color: #DAA520; color: white; padding: 20px; }
+        h1 { margin-top: 0; }
+        .button { background-color: #DAA520; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; display: inline-block; margin-top: 20px; }
+        .button:hover { background-color: #b88c1a; }
+        section { margin: 20px 0; }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Peace Coin</h1>
+        <p>The Cryptocurrency for Global Harmony and Community Development</p>
+    </header>
+
+    <div class="container">
+        <section>
+            <h2>About Peace Coin</h2>
+            <p>Peace Coin is a community-driven cryptocurrency aimed at fostering global harmony and empowering communities. Built on the foundation of peace and unity, Peace Coin represents a unique opportunity for investors to support meaningful initiatives.</p>
+        </section>
+
+        <section>
+            <h2>Community-Based Development</h2>
+            <p>Launched on the Pumpdotfun community platform, Peace Coin is driven by active community involvement. The development team will allocate raised funds specifically for marketing, aiming to grow awareness and broaden our global impact.</p>
+        </section>
+
+        <section>
+            <h2>Experienced Development Team</h2>
+            <p>Our lead developer has a proven track record with multiple successful projects, bringing expertise and trust to the Peace Coin project. Our experience in launching and scaling community-driven tokens ensures that Peace Coin will have a solid foundation and strategic growth.</p>
+        </section>
+
+        <a href="https://pumpdotfun.com" class="button">Join the Peace Coin Community</a>
+    </div>
+
+</body>
+</html>
